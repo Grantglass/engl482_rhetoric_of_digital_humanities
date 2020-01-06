@@ -6,7 +6,7 @@
 3. Agree to Terms and Conditions and Finish Signing Up.
 4. After you are finished, go back to [https://cloudapps.unc.edu](https://cloudapps.unc.edu)
 5. Click "Sign In" and Log in with Onyen.
-![service-catalog](images/service.png)
+![service-catalog](images/service-catalog.png)
 6. Find the Service Catalog under the dropdown at the top of the page.
 ![jupyter](images/jupyter.png)
 7. Use the search bar and type in "Jupyter" You should see the Jupyter Notebook appear. Click on the Jupyter Notebook.
