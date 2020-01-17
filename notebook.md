@@ -49,7 +49,7 @@
 
 17. And add "HTTP_PROXY" and "HTTPS_PROXY" environment variables with a blank value.
 
-![link](images/proxy.png)
+![link](images/http.png)
 
 18. To access your Jupyter Notebook, click on "Overview" on the lefthand menu. You will see the url of your notebook in the right corner, usually it is https://juptyer-notebook.onyen.cloudapps.unc.edu
 
