@@ -47,6 +47,10 @@
 
 ![link](images/link.png)
 
-17. To access your Jupyter Notebook, click on "Overview" on the lefthand menu. You will see the url of your notebook in the right corner, usually it is https://juptyer-notebook.onyen.cloudapps.unc.edu
+17. And add "HTTP_PROXY" and "HTTPS_PROXY" environment variables with a blank value.
 
-18. Click on that url and enter the password you made to access your notebook.
+![link](images/proxy.png)
+
+18. To access your Jupyter Notebook, click on "Overview" on the lefthand menu. You will see the url of your notebook in the right corner, usually it is https://juptyer-notebook.onyen.cloudapps.unc.edu
+
+19. Click on that url and enter the password you made to access your notebook.
